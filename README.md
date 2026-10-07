@@ -4,7 +4,7 @@ A simple **Rock Paper Scissors** game built with **HTML, CSS, and Vanilla JavaSc
 
 The player chooses Rock, Paper, or Scissors, and the computer randomly selects its choice. JavaScript then compares both choices and displays the winner while keeping track of the score.
 
-## 🚀 Live Demo
+## 🚀 Live Demos
 
 👉 Add your GitHub Pages link here after deployment.
 
